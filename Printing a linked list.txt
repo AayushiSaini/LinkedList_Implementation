@@ -79,6 +79,13 @@ public class Main{
                  System.out.print(tem.data+"->");
                  tem=tem.next;
              }
+
+
+ while(tem!=null){
+                 System.out.print(tem.data+"->");
+                 tem=tem.next;
+            }
+        
         
         
     }
